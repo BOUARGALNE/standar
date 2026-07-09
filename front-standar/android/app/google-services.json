@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "171723055573",
+    "project_id": "siwl-a7106",
+    "storage_bucket": "siwl-a7106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171723055573:android:493b8a6130acac6dc81d5c",
+        "android_client_info": {
+          "package_name": "com.brflowtech.siwl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171723055573-vhvf7cmiuebcoig96n96tsvruehg7ou2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf_le7SOaWh9CBO-FbCRZreSM93bdSAHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171723055573-vhvf7cmiuebcoig96n96tsvruehg7ou2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171723055573-c9r5uqn4i3fjk9i2rqjk3v9npgp2rou1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brflowtech.siwl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
